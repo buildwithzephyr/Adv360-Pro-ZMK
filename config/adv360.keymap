@@ -8,8 +8,7 @@
 &mt {
     tapping-term-ms = <100>;
     flavor = "balanced";
-    retro-tap;
-    quick-tap-ms = <100>;
+    quick-tap-ms = <200>;
     require-prior-idle-ms = <100>;
 };
 
