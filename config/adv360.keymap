@@ -51,11 +51,11 @@
 
         Mac {
             bindings = <
-&trans     &trans       &trans  &trans      &trans  &trans  &trans                                      &trans         &trans  &trans  &trans      &trans  &trans           &trans
-&trans     &trans       &trans  &trans      &trans  &trans  &trans                                      &trans         &trans  &trans  &trans      &trans  &trans           &trans
-&trans     &mt LCTRL A  &trans  &mt LGUI D  &trans  &trans  &trans  &trans  &trans      &trans  &trans  &kp LS(LG(I))  &trans  &trans  &mt RGUI K  &trans  &mt RCTRL COLON  &trans
-&trans     &trans       &trans  &trans      &trans  &trans                  &trans      &trans                         &trans  &trans  &trans      &trans  &trans           &trans
-&kp LMETA  &trans       &trans  &trans      &trans          &trans  &trans  &trans      &trans  &trans  &trans                 &trans  &trans      &trans  &trans           &trans
+&trans     &trans       &trans  &trans      &trans  &trans  &trans                                      &trans         &trans  &trans  &trans      &trans  &trans          &trans
+&trans     &trans       &trans  &trans      &trans  &trans  &trans                                      &trans         &trans  &trans  &trans      &trans  &trans          &trans
+&trans     &mt LCTRL A  &trans  &mt LGUI D  &trans  &trans  &trans  &trans  &trans      &trans  &trans  &kp LS(LG(I))  &trans  &trans  &mt RGUI K  &trans  &mt RCTRL SEMI  &trans
+&trans     &trans       &trans  &trans      &trans  &trans                  &trans      &trans                         &trans  &trans  &trans      &trans  &trans          &trans
+&kp LMETA  &trans       &trans  &trans      &trans          &trans  &trans  &trans      &trans  &trans  &trans                 &trans  &trans      &trans  &trans          &trans
             >;
         };
 
